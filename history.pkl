@@ -1,0 +1,3838 @@
+(lp0
+((lp1
+S'boulgour'
+p2
+aS'noix'
+p3
+aS'amandes'
+p4
+aS'origan'
+p5
+aS'poivre'
+p6
+aS'no'
+p7
+tp8
+a((lp9
+S'petits-pois'
+p10
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p11
+aS'piment'
+p12
+aS'curcuma'
+p13
+aS'citron'
+p14
+aS'almost'
+p15
+tp16
+a((lp17
+S'lasagnes'
+p18
+aS'amandes'
+p19
+aS'oignons'
+p20
+aS'parmesan'
+p21
+aS'menthe'
+p22
+aS'no'
+p23
+tp24
+a((lp25
+S'\xc3\xa9pis de ma\xc3\xafs'
+p26
+aS'noisettes'
+p27
+aS'lait de coco'
+p28
+aS'citron'
+p29
+aS'basilic'
+p30
+aS'no'
+p31
+tp32
+a((lp33
+S'haricots verts'
+p34
+aS'chou fleur'
+p35
+aS'mozzarella'
+p36
+aS'oignons'
+p37
+aS'coriandre'
+p38
+aS'no'
+p39
+tp40
+a((lp41
+S'boulgour'
+p42
+aS'oeuf'
+p43
+aS'origan'
+p44
+aS'paprika'
+p45
+aS'ail'
+p46
+aS'yes'
+p47
+tp48
+a((lp49
+S'millet'
+p50
+aS'cacahu\xc3\xa8tes'
+p51
+aS'parmesan'
+p52
+aS'menthe'
+p53
+aS'origan'
+p54
+aS'yes'
+p55
+tp56
+a((lp57
+S'millet'
+p58
+aS'poivron'
+p59
+aS'cacahu\xc3\xa8tes'
+p60
+aS'persil'
+p61
+aS'origan'
+p62
+aS'yes'
+p63
+tp64
+a((lp65
+S'haricots verts'
+p66
+aS'comt\xc3\xa9'
+p67
+aS'mozzarella'
+p68
+aS'pesto'
+p69
+aS'ciboulette'
+p70
+aS'yes'
+p71
+tp72
+a((lp73
+S'patates douces'
+p74
+aS'noix'
+p75
+aS'tomates fra\xc3\xaeches'
+p76
+aS'paprika'
+p77
+aS'origan'
+p78
+aS'yes'
+p79
+tp80
+a((lp81
+S'haricots verts'
+p82
+aS'oeuf'
+p83
+aS'seitan grill\xc3\xa9'
+p84
+aS'paprika'
+p85
+aS'sauce soja'
+p86
+aS'yes'
+p87
+tp88
+a((lp89
+S'riz'
+p90
+aS'fromage r\xc3\xa2p\xc3\xa9'
+p91
+aS'ail'
+p92
+aS'curry'
+p93
+aS'poivre'
+p94
+aS'almost'
+p95
+tp96
+a((lp97
+S'pois-chiches'
+p98
+aS'tomates s\xc3\xa9ch\xc3\xa9es'
+p99
+aS'amandes'
+p100
+aS'persil'
+p101
+aS'cumin'
+p102
+aS'yes'
+p103
+tp104
+a((lp105
+S'boulgour'
+p106
+aS'olives'
+p107
+aS'roquette'
+p108
+aS'citron'
+p109
+aS'coriandre'
+p110
+aS'almost'
+p111
+tp112
+a((lp113
+S'galettes'
+p114
+aS'seitan grill\xc3\xa9'
+p115
+aS'tofu grill\xc3\xa9'
+p116
+aS'olives'
+p117
+aS'coriandre'
+p118
+aS'no'
+p119
+tp120
+a((lp121
+S'risotto'
+p122
+aS'mozzarella'
+p123
+aS'cacahu\xc3\xa8tes'
+p124
+aS'curcuma'
+p125
+aS'sauce soja'
+p126
+aS'almost'
+p127
+tp128
+a((lp129
+S'petits-pois'
+p130
+aS'pignons de pin'
+p131
+aS'moutarde'
+p132
+aS'pesto'
+p133
+aS'curcuma'
+p134
+aS'almost'
+p135
+tp136
+a((lp137
+S'pitta'
+p138
+aS'cacahu\xc3\xa8tes'
+p139
+aS'c\xc5\x93ur de palmiers'
+p140
+aS'oignons'
+p141
+aS'citron'
+p142
+aS'no'
+p143
+tp144
+a((lp145
+S'cr\xc3\xaapes'
+p146
+aS'comt\xc3\xa9'
+p147
+aS'mozzarella'
+p148
+aS'c\xc3\xa2pres'
+p149
+aS'poivre'
+p150
+aS'no'
+p151
+tp152
+a((lp153
+S'boulgour'
+p154
+aS'aubergine'
+p155
+aS'roquette'
+p156
+aS'paprika'
+p157
+aS'herbes de provences'
+p158
+aS'yes'
+p159
+tp160
+a((lp161
+S'risotto'
+p162
+aS'seitan grill\xc3\xa9'
+p163
+aS'herbes de provences'
+p164
+aS'ciboulette'
+p165
+aS'\xc3\xa9chalottes'
+p166
+aS'almost'
+p167
+tp168
+a((lp169
+S'pain'
+p170
+aS'oeuf'
+p171
+aS'\xc3\xa9chalottes'
+p172
+aS'herbes de provences'
+p173
+aS'cumin'
+p174
+aS'no'
+p175
+tp176
+a((lp177
+S'petits-pois'
+p178
+aS'mozzarella'
+p179
+aS'paprika'
+p180
+aS'persil'
+p181
+aS'herbes de provences'
+p182
+aS'almost'
+p183
+tp184
+a((lp185
+S'beurre de cacahu\xc3\xa8te'
+p186
+aS'comt\xc3\xa9'
+p187
+aS'roquefort'
+p188
+aS'fromage r\xc3\xa2p\xc3\xa9'
+p189
+aS'sauce tomate'
+p190
+aS'no'
+p191
+tp192
+a((lp193
+S'comt\xc3\xa9'
+p194
+aS'oeuf'
+p195
+aS'courgette'
+p196
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p197
+aS'fromage r\xc3\xa2p\xc3\xa9'
+p198
+aS'no'
+p199
+tp200
+a((lp201
+S'patates'
+p202
+aS'poivron'
+p203
+aS'parmesan'
+p204
+aS's\xc3\xa9same'
+p205
+aS'coriandre'
+p206
+aS'no'
+p207
+tp208
+a((lp209
+S'galettes'
+p210
+aS'beurre de cacahu\xc3\xa8te'
+p211
+aS'cacahu\xc3\xa8tes'
+p212
+aS'origan'
+p213
+aS'poivre'
+p214
+aS'no'
+p215
+tp216
+a((lp217
+S'\xc3\xa9pis de ma\xc3\xafs'
+p218
+aS'comt\xc3\xa9'
+p219
+aS'pousses de lentilles'
+p220
+aS'herbes de provences'
+p221
+aS'origan'
+p222
+aS'almost'
+p223
+tp224
+a((lp225
+S'riz'
+p226
+aS'fromage r\xc3\xa2p\xc3\xa9'
+p227
+aS'\xc3\xa9chalottes'
+p228
+aS'menthe'
+p229
+aS's\xc3\xa9same'
+p230
+aS'no'
+p231
+tp232
+a((lp233
+S'camenbert'
+p234
+aS'oeuf'
+p235
+aS'seitan grill\xc3\xa9'
+p236
+aS'cacahu\xc3\xa8tes'
+p237
+aS'moutarde'
+p238
+aS'no'
+p239
+tp240
+a((lp241
+S'aubergine'
+p242
+aS'roquefort'
+p243
+aS'asperges'
+p244
+aS'mozzarella'
+p245
+aS'curry'
+p246
+aS'no'
+p247
+tp248
+a((lp249
+S'haricots verts'
+p250
+aS'asperges'
+p251
+aS'c\xc5\x93ur de palmiers'
+p252
+aS'parmesan'
+p253
+aS'poivre'
+p254
+aS'no'
+p255
+tp256
+a((lp257
+S'oeuf'
+p258
+aS'brie'
+p259
+aS'chou fleur'
+p260
+aS'amandes'
+p261
+aS'olives'
+p262
+aS'almost'
+p263
+tp264
+a((lp265
+S'millet'
+p266
+aS'c\xc3\xa2pres'
+p267
+aS'parmesan'
+p268
+aS'\xc3\xa9chalottes'
+p269
+aS'poivre'
+p270
+aS'no'
+p271
+tp272
+a((lp273
+S'millet'
+p274
+aS'asperges'
+p275
+aS'moutarde'
+p276
+aS'basilic'
+p277
+aS'poivre'
+p278
+aS'yes'
+p279
+tp280
+a((lp281
+S'polenta'
+p282
+aS'lait de coco'
+p283
+aS'oignons'
+p284
+aS'ail'
+p285
+aS'sauce soja'
+p286
+aS'no'
+p287
+tp288
+a((lp289
+S'pois cass\xc3\xa9s'
+p290
+aS'tofu grill\xc3\xa9'
+p291
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p292
+aS'menthe'
+p293
+aS'cumin'
+p294
+aS'yes'
+p295
+tp296
+a((lp297
+S'petits-pois'
+p298
+aS'roquefort'
+p299
+aS'menthe'
+p300
+aS'ciboulette'
+p301
+aS'sauce soja'
+p302
+aS'almost'
+p303
+tp304
+a((lp305
+S'p\xc3\xa2tes'
+p306
+aS'oeuf'
+p307
+aS'parmesan'
+p308
+aS'cumin'
+p309
+aS'ail'
+p310
+aS'yes'
+p311
+tp312
+a((lp313
+S'pois-chiches'
+p314
+aS'cacahu\xc3\xa8tes'
+p315
+aS'piment'
+p316
+aS'moutarde'
+p317
+aS'origan'
+p318
+aS'yes'
+p319
+tp320
+a((lp321
+S'lentilles'
+p322
+aS'lait de coco'
+p323
+aS'roquette'
+p324
+aS'origan'
+p325
+aS'curry'
+p326
+aS'yes'
+p327
+tp328
+a((lp329
+S'quinoa'
+p330
+aS'asperges'
+p331
+aS'tomates fra\xc3\xaeches'
+p332
+aS'sauce soja'
+p333
+aS'persil'
+p334
+aS'yes'
+p335
+tp336
+a((lp337
+S'quinoa'
+p338
+aS'tomates s\xc3\xa9ch\xc3\xa9es'
+p339
+aS'tomates fra\xc3\xaeches'
+p340
+aS'roquette'
+p341
+aS's\xc3\xa9same'
+p342
+aS'almost'
+p343
+tp344
+a((lp345
+S'pain'
+p346
+aS'roquefort'
+p347
+aS'amandes'
+p348
+aS'sauce tomate'
+p349
+aS'\xc3\xa9chalottes'
+p350
+aS'yes'
+p351
+tp352
+a((lp353
+S'cr\xc3\xaapes'
+p354
+aS'seitan grill\xc3\xa9'
+p355
+aS'amandes'
+p356
+aS'pousses de lentilles'
+p357
+aS'curcuma'
+p358
+aS'no'
+p359
+tp360
+a((lp361
+S'haricots blancs/rouges'
+p362
+aS'camenbert'
+p363
+aS'roquette'
+p364
+aS'herbes de provences'
+p365
+aS'paprika'
+p366
+aS'no'
+p367
+tp368
+a((lp369
+S'\xc3\xa9pis de ma\xc3\xafs'
+p370
+aS'poivron'
+p371
+aS'c\xc5\x93ur de palmiers'
+p372
+aS'oignons'
+p373
+aS'piment'
+p374
+aS'no'
+p375
+tp376
+a((lp377
+S'cr\xc3\xaapes'
+p378
+aS'asperges'
+p379
+aS'camenbert'
+p380
+aS'curcuma'
+p381
+aS'curry'
+p382
+aS'no'
+p383
+tp384
+a((lp385
+S'p\xc3\xa2tes'
+p386
+aS'noisettes'
+p387
+aS'tomates fra\xc3\xaeches'
+p388
+aS'\xc3\xa9chalottes'
+p389
+aS'sauce soja'
+p390
+aS'almost'
+p391
+tp392
+a((lp393
+S'cr\xc3\xaapes'
+p394
+aS'brie'
+p395
+aS'c\xc5\x93ur de palmiers'
+p396
+aS'olives'
+p397
+aS'citron'
+p398
+aS'no'
+p399
+tp400
+a((lp401
+S'p\xc3\xa2tes'
+p402
+aS'seitan grill\xc3\xa9'
+p403
+aS'oignons'
+p404
+aS'citron'
+p405
+aS'coriandre'
+p406
+aS'almost'
+p407
+tp408
+a((lp409
+S'galettes'
+p410
+aS'beurre de cacahu\xc3\xa8te'
+p411
+aS'seitan grill\xc3\xa9'
+p412
+aS'pignons de pin'
+p413
+aS'curcuma'
+p414
+aS'no'
+p415
+tp416
+a((lp417
+S'cr\xc3\xaapes'
+p418
+aS'chou fleur'
+p419
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p420
+aS'pesto'
+p421
+aS'cumin'
+p422
+aS'no'
+p423
+tp424
+a((lp425
+S'pois cass\xc3\xa9s'
+p426
+aS'roquefort'
+p427
+aS'parmesan'
+p428
+aS'moutarde'
+p429
+aS'basilic'
+p430
+aS'no'
+p431
+tp432
+a((lp433
+S'patates douces'
+p434
+aS'poivron'
+p435
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p436
+aS'olives'
+p437
+aS'ciboulette'
+p438
+aS'no'
+p439
+tp440
+a((lp441
+S'pois cass\xc3\xa9s'
+p442
+aS'brie'
+p443
+aS'piment'
+p444
+aS'ciboulette'
+p445
+aS'menthe'
+p446
+aS'no'
+p447
+tp448
+a((lp449
+S'galettes'
+p450
+aS'aubergine'
+p451
+aS'chou fleur'
+p452
+aS'sauce tomate'
+p453
+aS'poivre'
+p454
+aS'no'
+p455
+tp456
+a((lp457
+S'patates'
+p458
+aS'tomates fra\xc3\xaeches'
+p459
+aS'moutarde'
+p460
+aS'oignons'
+p461
+aS'herbes de provences'
+p462
+aS'yes'
+p463
+tp464
+a((lp465
+S'lasagnes'
+p466
+aS'seitan grill\xc3\xa9'
+p467
+aS'tomates s\xc3\xa9ch\xc3\xa9es'
+p468
+aS'oignons'
+p469
+aS'cumin'
+p470
+aS'no'
+p471
+tp472
+a((lp473
+S'p\xc3\xa2tes'
+p474
+aS'camenbert'
+p475
+aS'poivron'
+p476
+aS'origan'
+p477
+aS's\xc3\xa9same'
+p478
+aS'almost'
+p479
+tp480
+a((lp481
+S'lasagnes'
+p482
+aS'chou fleur'
+p483
+aS'poivron'
+p484
+aS'pesto'
+p485
+aS'\xc3\xa9chalottes'
+p486
+aS'no'
+p487
+tp488
+a((lp489
+S'spaghetti'
+p490
+aS'fromage r\xc3\xa2p\xc3\xa9'
+p491
+aS'sauce tomate'
+p492
+aS'ciboulette'
+p493
+aS'curcuma'
+p494
+aS'yes'
+p495
+tp496
+a((lp497
+S'galettes'
+p498
+aS'aubergine'
+p499
+aS'asperges'
+p500
+aS'pignons de pin'
+p501
+aS'basilic'
+p502
+aS'yes'
+p503
+tp504
+a((lp505
+S'galettes'
+p506
+aS'camenbert'
+p507
+aS'pignons de pin'
+p508
+aS'moutarde'
+p509
+aS'persil'
+p510
+aS'almost'
+p511
+tp512
+a((lp513
+S'cr\xc3\xaapes'
+p514
+aS'aubergine'
+p515
+aS'chou fleur'
+p516
+aS'paprika'
+p517
+aS'ail'
+p518
+aS'no'
+p519
+tp520
+a((lp521
+S'p\xc3\xa2tes'
+p522
+aS'camenbert'
+p523
+aS'c\xc3\xa2pres'
+p524
+aS'parmesan'
+p525
+aS'cumin'
+p526
+aS'almost'
+p527
+tp528
+a((lp529
+S'petits-pois'
+p530
+aS'oeuf'
+p531
+aS'\xc3\xa9chalottes'
+p532
+aS'curry'
+p533
+aS'paprika'
+p534
+aS'almost'
+p535
+tp536
+a((lp537
+S'nouilles chinoises'
+p538
+aS'roquefort'
+p539
+aS'sauce tomate'
+p540
+aS'cumin'
+p541
+aS'ciboulette'
+p542
+aS'yes'
+p543
+tp544
+a((lp545
+S'galettes'
+p546
+aS'lait de coco'
+p547
+aS'c\xc5\x93ur de palmiers'
+p548
+aS'parmesan'
+p549
+aS'cumin'
+p550
+aS'no'
+p551
+tp552
+a((lp553
+S'spaghetti'
+p554
+aS'tomates fra\xc3\xaeches'
+p555
+aS'c\xc5\x93ur de palmiers'
+p556
+aS'piment'
+p557
+aS'ciboulette'
+p558
+aS'yes'
+p559
+tp560
+a((lp561
+S'pain'
+p562
+aS'beurre de cacahu\xc3\xa8te'
+p563
+aS'lait de coco'
+p564
+aS'curcuma'
+p565
+aS'ciboulette'
+p566
+aS'no'
+p567
+tp568
+a((lp569
+S'quinoa'
+p570
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p571
+aS'fromage r\xc3\xa2p\xc3\xa9'
+p572
+aS'tomates s\xc3\xa9ch\xc3\xa9es'
+p573
+aS'cumin'
+p574
+aS'yes'
+p575
+tp576
+a((lp577
+S'galettes'
+p578
+aS'asperges'
+p579
+aS'lait de coco'
+p580
+aS'olives'
+p581
+aS'pousses de lentilles'
+p582
+aS'almost'
+p583
+tp584
+a((lp585
+S'quinoa'
+p586
+aS'noisettes'
+p587
+aS'tomates fra\xc3\xaeches'
+p588
+aS'parmesan'
+p589
+aS'persil'
+p590
+aS'yes'
+p591
+tp592
+a((lp593
+S'p\xc3\xa2tes'
+p594
+aS'brie'
+p595
+aS'moutarde'
+p596
+aS's\xc3\xa9same'
+p597
+aS'citron'
+p598
+aS'almost'
+p599
+tp600
+a((lp601
+S'haricots blancs/rouges'
+p602
+aS'oeuf'
+p603
+aS'fromage r\xc3\xa2p\xc3\xa9'
+p604
+aS'ciboulette'
+p605
+aS'sauce soja'
+p606
+aS'yes'
+p607
+tp608
+a((lp609
+S'polenta'
+p610
+aS'tofu grill\xc3\xa9'
+p611
+aS'poivron'
+p612
+aS'origan'
+p613
+aS'cumin'
+p614
+aS'yes'
+p615
+tp616
+a((lp617
+S'quinoa'
+p618
+aS'tofu grill\xc3\xa9'
+p619
+aS'cacahu\xc3\xa8tes'
+p620
+aS'pousses de lentilles'
+p621
+aS'paprika'
+p622
+aS'yes'
+p623
+tp624
+a((lp625
+S'boulgour'
+p626
+aS'noisettes'
+p627
+aS'c\xc5\x93ur de palmiers'
+p628
+aS'pousses de lentilles'
+p629
+aS'origan'
+p630
+aS'almost'
+p631
+tp632
+a((lp633
+S'haricots verts'
+p634
+aS'noix'
+p635
+aS'mozzarella'
+p636
+aS'pousses de lentilles'
+p637
+aS'moutarde'
+p638
+aS'yes'
+p639
+tp640
+a((lp641
+S'boulgour'
+p642
+aS'camenbert'
+p643
+aS'poivre'
+p644
+aS'ciboulette'
+p645
+aS'basilic'
+p646
+aS'no'
+p647
+tp648
+a((lp649
+S'cr\xc3\xaapes'
+p650
+aS'comt\xc3\xa9'
+p651
+aS'olives'
+p652
+aS'parmesan'
+p653
+aS'menthe'
+p654
+aS'no'
+p655
+tp656
+a((lp657
+S'p\xc3\xa2tes'
+p658
+aS'comt\xc3\xa9'
+p659
+aS'noisettes'
+p660
+aS'cumin'
+p661
+aS'curry'
+p662
+aS'yes'
+p663
+tp664
+a((lp665
+S'\xc3\xa9pis de ma\xc3\xafs'
+p666
+aS'poireau'
+p667
+aS'noix'
+p668
+aS'basilic'
+p669
+aS'paprika'
+p670
+aS'no'
+p671
+tp672
+a((lp673
+S'millet'
+p674
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p675
+aS'noisettes'
+p676
+aS'pousses de lentilles'
+p677
+aS'coriandre'
+p678
+aS'almost'
+p679
+tp680
+a((lp681
+S'lasagnes'
+p682
+aS'roquefort'
+p683
+aS'roquette'
+p684
+aS'herbes de provences'
+p685
+aS'paprika'
+p686
+aS'no'
+p687
+tp688
+a((lp689
+S'lasagnes'
+p690
+aS'noix'
+p691
+aS'mozzarella'
+p692
+aS'\xc3\xa9chalottes'
+p693
+aS'origan'
+p694
+aS'no'
+p695
+tp696
+a((lp697
+S'patates'
+p698
+aS'mozzarella'
+p699
+aS'pignons de pin'
+p700
+aS'basilic'
+p701
+aS'cumin'
+p702
+aS'no'
+p703
+tp704
+a((lp705
+S'pois-chiches'
+p706
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p707
+aS'mozzarella'
+p708
+aS'herbes de provences'
+p709
+aS'poivre'
+p710
+aS'almost'
+p711
+tp712
+a((lp713
+S'lentilles'
+p714
+aS'poireau'
+p715
+aS'pignons de pin'
+p716
+aS's\xc3\xa9same'
+p717
+aS'sauce soja'
+p718
+aS'yes'
+p719
+tp720
+a((lp721
+S'pois-chiches'
+p722
+aS'noix'
+p723
+aS'lait de coco'
+p724
+aS'herbes de provences'
+p725
+aS'ail'
+p726
+aS'no'
+p727
+tp728
+a((lp729
+S'p\xc3\xa2tes'
+p730
+aS'roquefort'
+p731
+aS'pesto'
+p732
+aS'origan'
+p733
+aS'coriandre'
+p734
+aS'yes'
+p735
+tp736
+a((lp737
+S'quinoa'
+p738
+aS'asperges'
+p739
+aS'cacahu\xc3\xa8tes'
+p740
+aS'sauce tomate'
+p741
+aS'cumin'
+p742
+aS'yes'
+p743
+tp744
+a((lp745
+S'haricots verts'
+p746
+aS'comt\xc3\xa9'
+p747
+aS'c\xc5\x93ur de palmiers'
+p748
+aS'pesto'
+p749
+aS'citron'
+p750
+aS'yes'
+p751
+tp752
+a((lp753
+S'pois-chiches'
+p754
+aS'tomates fra\xc3\xaeches'
+p755
+aS'pesto'
+p756
+aS'origan'
+p757
+aS'basilic'
+p758
+aS'yes'
+p759
+tp760
+a((lp761
+S'pain'
+p762
+aS'poireau'
+p763
+aS'moutarde'
+p764
+aS'pesto'
+p765
+aS'roquette'
+p766
+aS'no'
+p767
+tp768
+a((lp769
+S'riz'
+p770
+aS'poireau'
+p771
+aS'pesto'
+p772
+aS'ciboulette'
+p773
+aS'citron'
+p774
+aS'yes'
+p775
+tp776
+a((lp777
+S'polenta'
+p778
+aS'seitan grill\xc3\xa9'
+p779
+aS'poivre'
+p780
+aS'curry'
+p781
+aS's\xc3\xa9same'
+p782
+aS'almost'
+p783
+tp784
+a((lp785
+S'pitta'
+p786
+aS'tomates s\xc3\xa9ch\xc3\xa9es'
+p787
+aS'noisettes'
+p788
+aS'pignons de pin'
+p789
+aS'pesto'
+p790
+aS'no'
+p791
+tp792
+a((lp793
+S'riz'
+p794
+aS'pousses de lentilles'
+p795
+aS'olives'
+p796
+aS'c\xc3\xa2pres'
+p797
+aS'citron'
+p798
+aS'yes'
+p799
+tp800
+a((lp801
+S'haricots blancs/rouges'
+p802
+aS'courgette'
+p803
+aS'tomates fra\xc3\xaeches'
+p804
+aS'basilic'
+p805
+aS'origan'
+p806
+aS'yes'
+p807
+tp808
+a((lp809
+S'risotto'
+p810
+aS'mozzarella'
+p811
+aS'amandes'
+p812
+aS'roquette'
+p813
+aS'sauce soja'
+p814
+aS'almost'
+p815
+tp816
+a((lp817
+S'patates'
+p818
+aS'aubergine'
+p819
+aS'tomates s\xc3\xa9ch\xc3\xa9es'
+p820
+aS'cumin'
+p821
+aS'paprika'
+p822
+aS'almost'
+p823
+tp824
+a((lp825
+S'lentilles'
+p826
+aS'comt\xc3\xa9'
+p827
+aS'cumin'
+p828
+aS'sauce soja'
+p829
+aS'menthe'
+p830
+aS'no'
+p831
+tp832
+a((lp833
+S'pitta'
+p834
+aS'lait de coco'
+p835
+aS'tofu grill\xc3\xa9'
+p836
+aS'moutarde'
+p837
+aS'herbes de provences'
+p838
+aS'no'
+p839
+tp840
+a((lp841
+S'nouilles chinoises'
+p842
+aS'camenbert'
+p843
+aS'parmesan'
+p844
+aS'curry'
+p845
+aS'\xc3\xa9chalottes'
+p846
+aS'no'
+p847
+tp848
+a((lp849
+S'galettes'
+p850
+aS'chou fleur'
+p851
+aS'amandes'
+p852
+aS'origan'
+p853
+aS'ail'
+p854
+aS'no'
+p855
+tp856
+a((lp857
+S'risotto'
+p858
+aS'mozzarella'
+p859
+aS'sauce tomate'
+p860
+aS'persil'
+p861
+aS'menthe'
+p862
+aS'yes'
+p863
+tp864
+a((lp865
+S'spaghetti'
+p866
+aS'beurre de cacahu\xc3\xa8te'
+p867
+aS'curcuma'
+p868
+aS'herbes de provences'
+p869
+aS'curry'
+p870
+aS'almost'
+p871
+tp872
+a((lp873
+S'risotto'
+p874
+aS'seitan grill\xc3\xa9'
+p875
+aS'c\xc3\xa2pres'
+p876
+aS'menthe'
+p877
+aS'\xc3\xa9chalottes'
+p878
+aS'almost'
+p879
+tp880
+a((lp881
+S'asperges'
+p882
+aS'poireau'
+p883
+aS'roquefort'
+p884
+aS'cacahu\xc3\xa8tes'
+p885
+aS'oignons'
+p886
+aS'no'
+p887
+tp888
+a((lp889
+S'polenta'
+p890
+aS'c\xc3\xa2pres'
+p891
+aS'olives'
+p892
+aS'pignons de pin'
+p893
+aS'moutarde'
+p894
+aS'no'
+p895
+tp896
+a((lp897
+S'\xc3\xa9pis de ma\xc3\xafs'
+p898
+aS'brie'
+p899
+aS'oignons'
+p900
+aS'pousses de lentilles'
+p901
+aS'poivre'
+p902
+aS'no'
+p903
+tp904
+a((lp905
+S'pain'
+p906
+aS'oeuf'
+p907
+aS'roquette'
+p908
+aS'paprika'
+p909
+aS'citron'
+p910
+aS'yes'
+p911
+tp912
+a((lp913
+S'\xc3\xa9pis de ma\xc3\xafs'
+p914
+aS'aubergine'
+p915
+aS'oeuf'
+p916
+aS'citron'
+p917
+aS'curry'
+p918
+aS'almost'
+p919
+tp920
+a((lp921
+S'patates douces'
+p922
+aS'comt\xc3\xa9'
+p923
+aS'sauce tomate'
+p924
+aS'pignons de pin'
+p925
+aS'origan'
+p926
+aS'yes'
+p927
+tp928
+a((lp929
+S'patates douces'
+p930
+aS'seitan grill\xc3\xa9'
+p931
+aS'parmesan'
+p932
+aS'persil'
+p933
+aS'curcuma'
+p934
+aS'yes'
+p935
+tp936
+a((lp937
+S'patates'
+p938
+aS'c\xc5\x93ur de palmiers'
+p939
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p940
+aS'pousses de lentilles'
+p941
+aS'coriandre'
+p942
+aS'no'
+p943
+tp944
+a((lp945
+S'quinoa'
+p946
+aS'oeuf'
+p947
+aS'pesto'
+p948
+aS'c\xc3\xa2pres'
+p949
+aS's\xc3\xa9same'
+p950
+aS'yes'
+p951
+tp952
+a((lp953
+S'riz'
+p954
+aS'tofu grill\xc3\xa9'
+p955
+aS'olives'
+p956
+aS'ail'
+p957
+aS'origan'
+p958
+aS'yes'
+p959
+tp960
+a((lp961
+S'nouilles chinoises'
+p962
+aS'chou fleur'
+p963
+aS'tomates fra\xc3\xaeches'
+p964
+aS'citron'
+p965
+aS'herbes de provences'
+p966
+aS'yes'
+p967
+tp968
+a((lp969
+S'nouilles chinoises'
+p970
+aS'aubergine'
+p971
+aS'pignons de pin'
+p972
+aS'roquette'
+p973
+aS'ciboulette'
+p974
+aS'yes'
+p975
+tp976
+a((lp977
+S'haricots verts'
+p978
+aS'comt\xc3\xa9'
+p979
+aS'moutarde'
+p980
+aS'c\xc3\xa2pres'
+p981
+aS'poivre'
+p982
+aS'almost'
+p983
+tp984
+a((lp985
+S'pois cass\xc3\xa9s'
+p986
+aS'aubergine'
+p987
+aS'sauce tomate'
+p988
+aS'basilic'
+p989
+aS'herbes de provences'
+p990
+aS'yes'
+p991
+tp992
+a((lp993
+S'patates douces'
+p994
+aS'lait de coco'
+p995
+aS'oignons'
+p996
+aS'parmesan'
+p997
+aS'c\xc3\xa2pres'
+p998
+aS'yes'
+p999
+tp1000
+a((lp1001
+S'spaghetti'
+p1002
+aS'chou fleur'
+p1003
+aS'noisettes'
+p1004
+aS'coriandre'
+p1005
+aS'ciboulette'
+p1006
+aS'no'
+p1007
+tp1008
+a((lp1009
+S'petits-pois'
+p1010
+aS'beurre de cacahu\xc3\xa8te'
+p1011
+aS'basilic'
+p1012
+aS'cumin'
+p1013
+aS'ail'
+p1014
+aS'no'
+p1015
+tp1016
+a((lp1017
+S'lentilles'
+p1018
+aS'aubergine'
+p1019
+aS'c\xc3\xa2pres'
+p1020
+aS'herbes de provences'
+p1021
+aS'ciboulette'
+p1022
+aS'almost'
+p1023
+tp1024
+a((lp1025
+S'petits-pois'
+p1026
+aS'tofu grill\xc3\xa9'
+p1027
+aS'pousses de lentilles'
+p1028
+aS'sauce tomate'
+p1029
+aS'pesto'
+p1030
+aS'yes'
+p1031
+tp1032
+a((lp1033
+S'haricots blancs/rouges'
+p1034
+aS'courgette'
+p1035
+aS'c\xc3\xa2pres'
+p1036
+aS'\xc3\xa9chalottes'
+p1037
+aS'citron'
+p1038
+aS'almost'
+p1039
+tp1040
+a((lp1041
+S'patates douces'
+p1042
+aS'seitan grill\xc3\xa9'
+p1043
+aS'roquette'
+p1044
+aS'herbes de provences'
+p1045
+aS'\xc3\xa9chalottes'
+p1046
+aS'no'
+p1047
+tp1048
+a((lp1049
+S'lasagnes'
+p1050
+aS'comt\xc3\xa9'
+p1051
+aS'c\xc5\x93ur de palmiers'
+p1052
+aS'pesto'
+p1053
+aS'\xc3\xa9chalottes'
+p1054
+aS'no'
+p1055
+tp1056
+a((lp1057
+S'quinoa'
+p1058
+aS'c\xc5\x93ur de palmiers'
+p1059
+aS'mozzarella'
+p1060
+aS'pesto'
+p1061
+aS'\xc3\xa9chalottes'
+p1062
+aS'yes'
+p1063
+tp1064
+a((lp1065
+S'pain'
+p1066
+aS'seitan grill\xc3\xa9'
+p1067
+aS'noisettes'
+p1068
+aS'olives'
+p1069
+aS's\xc3\xa9same'
+p1070
+aS'no'
+p1071
+tp1072
+a((lp1073
+S'patates douces'
+p1074
+aS'chou fleur'
+p1075
+aS'fromage r\xc3\xa2p\xc3\xa9'
+p1076
+aS'curcuma'
+p1077
+aS'persil'
+p1078
+aS'yes'
+p1079
+tp1080
+a((lp1081
+S'nouilles chinoises'
+p1082
+aS'oeuf'
+p1083
+aS'moutarde'
+p1084
+aS'curry'
+p1085
+aS'origan'
+p1086
+aS'no'
+p1087
+tp1088
+a((lp1089
+S'cr\xc3\xaapes'
+p1090
+aS'aubergine'
+p1091
+aS'chou fleur'
+p1092
+aS'pousses de lentilles'
+p1093
+aS'basilic'
+p1094
+aS'no'
+p1095
+tp1096
+a((lp1097
+S'haricots verts'
+p1098
+aS'amandes'
+p1099
+aS'noix'
+p1100
+aS'parmesan'
+p1101
+aS'cumin'
+p1102
+aS'no'
+p1103
+tp1104
+a((lp1105
+S'lentilles'
+p1106
+aS'brie'
+p1107
+aS'moutarde'
+p1108
+aS'menthe'
+p1109
+aS'basilic'
+p1110
+aS'almost'
+p1111
+tp1112
+a((lp1113
+S'petits-pois'
+p1114
+aS'aubergine'
+p1115
+aS'tofu grill\xc3\xa9'
+p1116
+aS'ciboulette'
+p1117
+aS's\xc3\xa9same'
+p1118
+aS'yes'
+p1119
+tp1120
+a((lp1121
+S'lasagnes'
+p1122
+aS'seitan grill\xc3\xa9'
+p1123
+aS'amandes'
+p1124
+aS'sauce soja'
+p1125
+aS'poivre'
+p1126
+aS'no'
+p1127
+tp1128
+a((lp1129
+S'riz'
+p1130
+aS'brie'
+p1131
+aS'roquette'
+p1132
+aS'parmesan'
+p1133
+aS'sauce soja'
+p1134
+aS'almost'
+p1135
+tp1136
+a((lp1137
+S'petits-pois'
+p1138
+aS'roquefort'
+p1139
+aS'fromage r\xc3\xa2p\xc3\xa9'
+p1140
+aS'poivre'
+p1141
+aS'persil'
+p1142
+aS'no'
+p1143
+tp1144
+a((lp1145
+S'beurre de cacahu\xc3\xa8te'
+p1146
+aS'courgette'
+p1147
+aS'poireau'
+p1148
+aS'oeuf'
+p1149
+aS'pignons de pin'
+p1150
+aS'no'
+p1151
+tp1152
+a((lp1153
+S'petits-pois'
+p1154
+aS'beurre de cacahu\xc3\xa8te'
+p1155
+aS'tofu grill\xc3\xa9'
+p1156
+aS'ail'
+p1157
+aS'poivre'
+p1158
+aS'almost'
+p1159
+tp1160
+a((lp1161
+S'petits-pois'
+p1162
+aS'seitan grill\xc3\xa9'
+p1163
+aS'parmesan'
+p1164
+aS'pesto'
+p1165
+aS'menthe'
+p1166
+aS'yes'
+p1167
+tp1168
+a((lp1169
+S'patates douces'
+p1170
+aS'aubergine'
+p1171
+aS'ciboulette'
+p1172
+aS'herbes de provences'
+p1173
+aS'sauce soja'
+p1174
+aS'no'
+p1175
+tp1176
+a((lp1177
+S'p\xc3\xa2tes'
+p1178
+aS'amandes'
+p1179
+aS'c\xc3\xa2pres'
+p1180
+aS'sauce tomate'
+p1181
+aS'pesto'
+p1182
+aS'almost'
+p1183
+tp1184
+a((lp1185
+S'haricots blancs/rouges'
+p1186
+aS'c\xc5\x93ur de palmiers'
+p1187
+aS'cacahu\xc3\xa8tes'
+p1188
+aS'c\xc3\xa2pres'
+p1189
+aS'basilic'
+p1190
+aS'almost'
+p1191
+tp1192
+a((lp1193
+S'polenta'
+p1194
+aS'oeuf'
+p1195
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p1196
+aS'herbes de provences'
+p1197
+aS'basilic'
+p1198
+aS'almost'
+p1199
+tp1200
+a((lp1201
+S'quinoa'
+p1202
+aS'courgette'
+p1203
+aS'pousses de lentilles'
+p1204
+aS'sauce soja'
+p1205
+aS'curry'
+p1206
+aS'yes'
+p1207
+tp1208
+a((lp1209
+S'risotto'
+p1210
+aS'beurre de cacahu\xc3\xa8te'
+p1211
+aS'pousses de lentilles'
+p1212
+aS'coriandre'
+p1213
+aS'origan'
+p1214
+aS'no'
+p1215
+tp1216
+a((lp1217
+S'patates douces'
+p1218
+aS'fromage r\xc3\xa2p\xc3\xa9'
+p1219
+aS'moutarde'
+p1220
+aS'c\xc3\xa2pres'
+p1221
+aS'basilic'
+p1222
+aS'yes'
+p1223
+tp1224
+a((lp1225
+S'pain'
+p1226
+aS'beurre de cacahu\xc3\xa8te'
+p1227
+aS'poivron'
+p1228
+aS'origan'
+p1229
+aS'basilic'
+p1230
+aS'almost'
+p1231
+tp1232
+a((lp1233
+S'pitta'
+p1234
+aS'asperges'
+p1235
+aS'pesto'
+p1236
+aS'olives'
+p1237
+aS's\xc3\xa9same'
+p1238
+aS'almost'
+p1239
+tp1240
+a((lp1241
+S'lasagnes'
+p1242
+aS'camenbert'
+p1243
+aS'c\xc3\xa2pres'
+p1244
+aS'paprika'
+p1245
+aS'persil'
+p1246
+aS'no'
+p1247
+tp1248
+a((lp1249
+S'millet'
+p1250
+aS'seitan grill\xc3\xa9'
+p1251
+aS'moutarde'
+p1252
+aS'\xc3\xa9chalottes'
+p1253
+aS'basilic'
+p1254
+aS'almost'
+p1255
+tp1256
+a((lp1257
+S'quinoa'
+p1258
+aS'poireau'
+p1259
+aS'courgette'
+p1260
+aS'menthe'
+p1261
+aS'coriandre'
+p1262
+aS'yes'
+p1263
+tp1264
+a((lp1265
+S'\xc3\xa9pis de ma\xc3\xafs'
+p1266
+aS'chou fleur'
+p1267
+aS'pignons de pin'
+p1268
+aS'citron'
+p1269
+aS'coriandre'
+p1270
+aS'no'
+p1271
+tp1272
+a((lp1273
+S'pitta'
+p1274
+aS'amandes'
+p1275
+aS'tofu grill\xc3\xa9'
+p1276
+aS'parmesan'
+p1277
+aS'cumin'
+p1278
+aS'no'
+p1279
+tp1280
+a((lp1281
+S'\xc3\xa9pis de ma\xc3\xafs'
+p1282
+aS'courgette'
+p1283
+aS'roquette'
+p1284
+aS'poivre'
+p1285
+aS'origan'
+p1286
+aS'almost'
+p1287
+tp1288
+a((lp1289
+S'lentilles'
+p1290
+aS'chou fleur'
+p1291
+aS'cacahu\xc3\xa8tes'
+p1292
+aS'poivre'
+p1293
+aS'origan'
+p1294
+aS'no'
+p1295
+tp1296
+a((lp1297
+S'risotto'
+p1298
+aS'mozzarella'
+p1299
+aS'noisettes'
+p1300
+aS'pousses de lentilles'
+p1301
+aS'menthe'
+p1302
+aS'no'
+p1303
+tp1304
+a((lp1305
+S'oeuf'
+p1306
+aS'comt\xc3\xa9'
+p1307
+aS'aubergine'
+p1308
+aS'noix'
+p1309
+aS'pesto'
+p1310
+aS'yes'
+p1311
+tp1312
+a((lp1313
+S'haricots verts'
+p1314
+aS'fromage r\xc3\xa2p\xc3\xa9'
+p1315
+aS'cacahu\xc3\xa8tes'
+p1316
+aS'moutarde'
+p1317
+aS'roquette'
+p1318
+aS'no'
+p1319
+tp1320
+a((lp1321
+S'sarrasin'
+p1322
+aS'tomates s\xc3\xa9ch\xc3\xa9es'
+p1323
+aS'c\xc5\x93ur de palmiers'
+p1324
+aS'paprika'
+p1325
+aS'cumin'
+p1326
+aS'yes'
+p1327
+tp1328
+a((lp1329
+S'pitta'
+p1330
+aS'beurre de cacahu\xc3\xa8te'
+p1331
+aS'roquefort'
+p1332
+aS'citron'
+p1333
+aS'origan'
+p1334
+aS'no'
+p1335
+tp1336
+a((lp1337
+S'patates douces'
+p1338
+aS'tomates s\xc3\xa9ch\xc3\xa9es'
+p1339
+aS'moutarde'
+p1340
+aS'herbes de provences'
+p1341
+aS'sauce soja'
+p1342
+aS'almost'
+p1343
+tp1344
+a((lp1345
+S'quinoa'
+p1346
+aS'camenbert'
+p1347
+aS'roquette'
+p1348
+aS'sauce soja'
+p1349
+aS'coriandre'
+p1350
+aS'no'
+p1351
+tp1352
+a((lp1353
+S'galettes'
+p1354
+aS'tofu grill\xc3\xa9'
+p1355
+aS'parmesan'
+p1356
+aS'pousses de lentilles'
+p1357
+aS'c\xc3\xa2pres'
+p1358
+aS'no'
+p1359
+tp1360
+a((lp1361
+S'lasagnes'
+p1362
+aS'courgette'
+p1363
+aS'tomates fra\xc3\xaeches'
+p1364
+aS'ciboulette'
+p1365
+aS'curry'
+p1366
+aS'yes'
+p1367
+tp1368
+a((lp1369
+S'petits-pois'
+p1370
+aS'seitan grill\xc3\xa9'
+p1371
+aS'\xc3\xa9chalottes'
+p1372
+aS'cumin'
+p1373
+aS'sauce soja'
+p1374
+aS'yes'
+p1375
+tp1376
+a((lp1377
+S'p\xc3\xa2tes'
+p1378
+aS'roquefort'
+p1379
+aS'sauce tomate'
+p1380
+aS's\xc3\xa9same'
+p1381
+aS'menthe'
+p1382
+aS'yes'
+p1383
+tp1384
+a((lp1385
+S'boulgour'
+p1386
+aS'fromage r\xc3\xa2p\xc3\xa9'
+p1387
+aS'c\xc5\x93ur de palmiers'
+p1388
+aS'c\xc3\xa2pres'
+p1389
+aS'menthe'
+p1390
+aS'no'
+p1391
+tp1392
+a((lp1393
+S'quinoa'
+p1394
+aS'tomates s\xc3\xa9ch\xc3\xa9es'
+p1395
+aS'olives'
+p1396
+aS'moutarde'
+p1397
+aS's\xc3\xa9same'
+p1398
+aS'yes'
+p1399
+tp1400
+a((lp1401
+S'\xc3\xa9pis de ma\xc3\xafs'
+p1402
+aS'camenbert'
+p1403
+aS'tofu grill\xc3\xa9'
+p1404
+aS'menthe'
+p1405
+aS'paprika'
+p1406
+aS'no'
+p1407
+tp1408
+a((lp1409
+S'pois cass\xc3\xa9s'
+p1410
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p1411
+aS'fromage r\xc3\xa2p\xc3\xa9'
+p1412
+aS'pesto'
+p1413
+aS'ciboulette'
+p1414
+aS'yes'
+p1415
+tp1416
+a((lp1417
+S'pois cass\xc3\xa9s'
+p1418
+aS'amandes'
+p1419
+aS'pousses de lentilles'
+p1420
+aS'\xc3\xa9chalottes'
+p1421
+aS'curry'
+p1422
+aS'no'
+p1423
+tp1424
+a((lp1425
+S'spaghetti'
+p1426
+aS'brie'
+p1427
+aS'piment'
+p1428
+aS'c\xc3\xa2pres'
+p1429
+aS'ciboulette'
+p1430
+aS'almost'
+p1431
+tp1432
+a((lp1433
+S'quinoa'
+p1434
+aS'chou fleur'
+p1435
+aS'tofu grill\xc3\xa9'
+p1436
+aS'roquette'
+p1437
+aS'curry'
+p1438
+aS'yes'
+p1439
+tp1440
+a((lp1441
+S'cr\xc3\xaapes'
+p1442
+aS'aubergine'
+p1443
+aS'mozzarella'
+p1444
+aS'pignons de pin'
+p1445
+aS'basilic'
+p1446
+aS'yes'
+p1447
+tp1448
+a((lp1449
+S'polenta'
+p1450
+aS'poireau'
+p1451
+aS'basilic'
+p1452
+aS'coriandre'
+p1453
+aS'poivre'
+p1454
+aS'yes'
+p1455
+tp1456
+a((lp1457
+S'\xc3\xa9pis de ma\xc3\xafs'
+p1458
+aS'cacahu\xc3\xa8tes'
+p1459
+aS'poivron'
+p1460
+aS'\xc3\xa9chalottes'
+p1461
+aS'curcuma'
+p1462
+aS'no'
+p1463
+tp1464
+a((lp1465
+S'\xc3\xa9pis de ma\xc3\xafs'
+p1466
+aS'courgette'
+p1467
+aS'oignons'
+p1468
+aS'roquette'
+p1469
+aS'ciboulette'
+p1470
+aS'no'
+p1471
+tp1472
+a((lp1473
+S'pain'
+p1474
+aS'poivron'
+p1475
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p1476
+aS'parmesan'
+p1477
+aS'origan'
+p1478
+aS'yes'
+p1479
+tp1480
+a((lp1481
+S'pois cass\xc3\xa9s'
+p1482
+aS'oeuf'
+p1483
+aS'noix'
+p1484
+aS'menthe'
+p1485
+aS'cumin'
+p1486
+aS'no'
+p1487
+tp1488
+a((lp1489
+S'polenta'
+p1490
+aS'roquefort'
+p1491
+aS'piment'
+p1492
+aS'origan'
+p1493
+aS'herbes de provences'
+p1494
+aS'almost'
+p1495
+tp1496
+a((lp1497
+S'sarrasin'
+p1498
+aS'tofu grill\xc3\xa9'
+p1499
+aS'tomates s\xc3\xa9ch\xc3\xa9es'
+p1500
+aS'c\xc3\xa2pres'
+p1501
+aS's\xc3\xa9same'
+p1502
+aS'yes'
+p1503
+tp1504
+a((lp1505
+S'pain'
+p1506
+aS'roquefort'
+p1507
+aS'moutarde'
+p1508
+aS'c\xc3\xa2pres'
+p1509
+aS'coriandre'
+p1510
+aS'almost'
+p1511
+tp1512
+a((lp1513
+S'patates douces'
+p1514
+aS'tofu grill\xc3\xa9'
+p1515
+aS'piment'
+p1516
+aS'\xc3\xa9chalottes'
+p1517
+aS'cumin'
+p1518
+aS'yes'
+p1519
+tp1520
+a((lp1521
+S'riz'
+p1522
+aS'oeuf'
+p1523
+aS'c\xc5\x93ur de palmiers'
+p1524
+aS'curry'
+p1525
+aS'curcuma'
+p1526
+aS'no'
+p1527
+tp1528
+a((lp1529
+S'pain'
+p1530
+aS'tomates fra\xc3\xaeches'
+p1531
+aS'c\xc5\x93ur de palmiers'
+p1532
+aS'origan'
+p1533
+aS'paprika'
+p1534
+aS'yes'
+p1535
+tp1536
+a((lp1537
+S'patates douces'
+p1538
+aS'fromage r\xc3\xa2p\xc3\xa9'
+p1539
+aS'oignons'
+p1540
+aS'c\xc3\xa2pres'
+p1541
+aS'curcuma'
+p1542
+aS'almost'
+p1543
+tp1544
+a((lp1545
+S'patates douces'
+p1546
+aS'sauce tomate'
+p1547
+aS'pignons de pin'
+p1548
+aS'c\xc3\xa2pres'
+p1549
+aS'basilic'
+p1550
+aS'almost'
+p1551
+tp1552
+a((lp1553
+S'patates douces'
+p1554
+aS'chou fleur'
+p1555
+aS'fromage r\xc3\xa2p\xc3\xa9'
+p1556
+aS'curcuma'
+p1557
+aS'ciboulette'
+p1558
+aS'no'
+p1559
+tp1560
+a((lp1561
+S'patates douces'
+p1562
+aS'fromage r\xc3\xa2p\xc3\xa9'
+p1563
+aS'tomates fra\xc3\xaeches'
+p1564
+aS'origan'
+p1565
+aS'curcuma'
+p1566
+aS'no'
+p1567
+tp1568
+a((lp1569
+S'quinoa'
+p1570
+aS'comt\xc3\xa9'
+p1571
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p1572
+aS'pesto'
+p1573
+aS'ciboulette'
+p1574
+aS'yes'
+p1575
+tp1576
+a((lp1577
+S'p\xc3\xa2tes'
+p1578
+aS'mozzarella'
+p1579
+aS'pesto'
+p1580
+aS'ciboulette'
+p1581
+aS'curry'
+p1582
+aS'no'
+p1583
+tp1584
+a((lp1585
+S'quinoa'
+p1586
+aS'oeuf'
+p1587
+aS'sauce tomate'
+p1588
+aS'sauce soja'
+p1589
+aS'cumin'
+p1590
+aS'yes'
+p1591
+tp1592
+a((lp1593
+S'riz'
+p1594
+aS'tomates fra\xc3\xaeches'
+p1595
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p1596
+aS'origan'
+p1597
+aS'ciboulette'
+p1598
+aS'yes'
+p1599
+tp1600
+a((lp1601
+S'quinoa'
+p1602
+aS'oeuf'
+p1603
+aS'mozzarella'
+p1604
+aS'pesto'
+p1605
+aS'paprika'
+p1606
+aS'yes'
+p1607
+tp1608
+a((lp1609
+S'quinoa'
+p1610
+aS'asperges'
+p1611
+aS'tomates fra\xc3\xaeches'
+p1612
+aS'c\xc3\xa2pres'
+p1613
+aS'ciboulette'
+p1614
+aS'almost'
+p1615
+tp1616
+a((lp1617
+S'petits-pois'
+p1618
+aS'seitan grill\xc3\xa9'
+p1619
+aS'tomates fra\xc3\xaeches'
+p1620
+aS'persil'
+p1621
+aS'sauce soja'
+p1622
+aS'yes'
+p1623
+tp1624
+a((lp1625
+S'pain'
+p1626
+aS'c\xc5\x93ur de palmiers'
+p1627
+aS'tomates fra\xc3\xaeches'
+p1628
+aS'citron'
+p1629
+aS'ciboulette'
+p1630
+aS'almost'
+p1631
+tp1632
+a((lp1633
+S'petits-pois'
+p1634
+aS'seitan grill\xc3\xa9'
+p1635
+aS'pesto'
+p1636
+aS'sauce tomate'
+p1637
+aS'origan'
+p1638
+aS'almost'
+p1639
+tp1640
+a((lp1641
+S'millet'
+p1642
+aS'aubergine'
+p1643
+aS'pignons de pin'
+p1644
+aS'moutarde'
+p1645
+aS'basilic'
+p1646
+aS'yes'
+p1647
+tp1648
+a((lp1649
+S'quinoa'
+p1650
+aS'oeuf'
+p1651
+aS'c\xc5\x93ur de palmiers'
+p1652
+aS'piment'
+p1653
+aS'paprika'
+p1654
+aS'almost'
+p1655
+tp1656
+a((lp1657
+S'quinoa'
+p1658
+aS'oeuf'
+p1659
+aS'amandes'
+p1660
+aS'persil'
+p1661
+aS'sauce soja'
+p1662
+aS'no'
+p1663
+tp1664
+a((lp1665
+S'sarrasin'
+p1666
+aS'tomates fra\xc3\xaeches'
+p1667
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p1668
+aS'piment'
+p1669
+aS'origan'
+p1670
+aS'yes'
+p1671
+tp1672
+a((lp1673
+S'quinoa'
+p1674
+aS'roquefort'
+p1675
+aS'cacahu\xc3\xa8tes'
+p1676
+aS'cumin'
+p1677
+aS'\xc3\xa9chalottes'
+p1678
+aS'no'
+p1679
+tp1680
+a((lp1681
+S'petits-pois'
+p1682
+aS'seitan grill\xc3\xa9'
+p1683
+aS'tomates fra\xc3\xaeches'
+p1684
+aS'origan'
+p1685
+aS'citron'
+p1686
+aS'yes'
+p1687
+tp1688
+a((lp1689
+S'quinoa'
+p1690
+aS'seitan grill\xc3\xa9'
+p1691
+aS'tomates fra\xc3\xaeches'
+p1692
+aS'pesto'
+p1693
+aS'herbes de provences'
+p1694
+aS'yes'
+p1695
+tp1696
+a((lp1697
+S'spaghetti'
+p1698
+aS'comt\xc3\xa9'
+p1699
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p1700
+aS'citron'
+p1701
+aS'ciboulette'
+p1702
+aS'yes'
+p1703
+tp1704
+a((lp1705
+S'patates'
+p1706
+aS'tomates fra\xc3\xaeches'
+p1707
+aS'roquette'
+p1708
+aS'citron'
+p1709
+aS'herbes de provences'
+p1710
+aS'almost'
+p1711
+tp1712
+a((lp1713
+S'petits-pois'
+p1714
+aS'oeuf'
+p1715
+aS'citron'
+p1716
+aS'paprika'
+p1717
+aS'herbes de provences'
+p1718
+aS'yes'
+p1719
+tp1720
+a((lp1721
+S'patates'
+p1722
+aS'tomates fra\xc3\xaeches'
+p1723
+aS'parmesan'
+p1724
+aS'persil'
+p1725
+aS'sauce soja'
+p1726
+aS'almost'
+p1727
+tp1728
+a((lp1729
+S'haricots verts'
+p1730
+aS'aubergine'
+p1731
+aS'tomates fra\xc3\xaeches'
+p1732
+aS'pesto'
+p1733
+aS'origan'
+p1734
+aS'yes'
+p1735
+tp1736
+a((lp1737
+S'riz'
+p1738
+aS'tomates fra\xc3\xaeches'
+p1739
+aS'oignons'
+p1740
+aS'origan'
+p1741
+aS'cumin'
+p1742
+aS'almost'
+p1743
+tp1744
+a((lp1745
+S'spaghetti'
+p1746
+aS'seitan grill\xc3\xa9'
+p1747
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p1748
+aS'ciboulette'
+p1749
+aS'herbes de provences'
+p1750
+aS'no'
+p1751
+tp1752
+a((lp1753
+S'lasagnes'
+p1754
+aS'courgette'
+p1755
+aS'tomates fra\xc3\xaeches'
+p1756
+aS'basilic'
+p1757
+aS'sauce soja'
+p1758
+aS'almost'
+p1759
+tp1760
+a((lp1761
+S'quinoa'
+p1762
+aS'courgette'
+p1763
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p1764
+aS'cumin'
+p1765
+aS'sauce soja'
+p1766
+aS'almost'
+p1767
+tp1768
+a((lp1769
+S'haricots verts'
+p1770
+aS'oeuf'
+p1771
+aS'pignons de pin'
+p1772
+aS'pesto'
+p1773
+aS'paprika'
+p1774
+aS'yes'
+p1775
+tp1776
+a((lp1777
+S'quinoa'
+p1778
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p1779
+aS'tomates s\xc3\xa9ch\xc3\xa9es'
+p1780
+aS'parmesan'
+p1781
+aS'sauce soja'
+p1782
+aS'yes'
+p1783
+tp1784
+a((lp1785
+S'nouilles chinoises'
+p1786
+aS'chou fleur'
+p1787
+aS'roquette'
+p1788
+aS'ciboulette'
+p1789
+aS'citron'
+p1790
+aS'no'
+p1791
+tp1792
+a((lp1793
+S'quinoa'
+p1794
+aS'tomates fra\xc3\xaeches'
+p1795
+aS'piment'
+p1796
+aS'parmesan'
+p1797
+aS'menthe'
+p1798
+aS'yes'
+p1799
+tp1800
+a((lp1801
+S'nouilles chinoises'
+p1802
+aS'poivron'
+p1803
+aS'c\xc5\x93ur de palmiers'
+p1804
+aS'tomates fra\xc3\xaeches'
+p1805
+aS'origan'
+p1806
+aS'almost'
+p1807
+tp1808
+a((lp1809
+S'quinoa'
+p1810
+aS'tomates s\xc3\xa9ch\xc3\xa9es'
+p1811
+aS'poivron'
+p1812
+aS'pesto'
+p1813
+aS'cumin'
+p1814
+aS'yes'
+p1815
+tp1816
+a((lp1817
+S'quinoa'
+p1818
+aS'tomates s\xc3\xa9ch\xc3\xa9es'
+p1819
+aS'tofu grill\xc3\xa9'
+p1820
+aS'moutarde'
+p1821
+aS'basilic'
+p1822
+aS'yes'
+p1823
+tp1824
+a((lp1825
+S'quinoa'
+p1826
+aS'seitan grill\xc3\xa9'
+p1827
+aS'parmesan'
+p1828
+aS'pignons de pin'
+p1829
+aS'persil'
+p1830
+aS'almost'
+p1831
+tp1832
+a((lp1833
+S'millet'
+p1834
+aS'seitan grill\xc3\xa9'
+p1835
+aS'parmesan'
+p1836
+aS'pesto'
+p1837
+aS'persil'
+p1838
+aS'yes'
+p1839
+tp1840
+a((lp1841
+S'p\xc3\xa2tes'
+p1842
+aS'tomates fra\xc3\xaeches'
+p1843
+aS'sauce tomate'
+p1844
+aS'basilic'
+p1845
+aS'sauce soja'
+p1846
+aS'yes'
+p1847
+tp1848
+a((lp1849
+S'quinoa'
+p1850
+aS'asperges'
+p1851
+aS'parmesan'
+p1852
+aS'menthe'
+p1853
+aS'ail'
+p1854
+aS'almost'
+p1855
+tp1856
+a((lp1857
+S'quinoa'
+p1858
+aS'seitan grill\xc3\xa9'
+p1859
+aS'noix'
+p1860
+aS'pesto'
+p1861
+aS'curcuma'
+p1862
+aS'yes'
+p1863
+tp1864
+a((lp1865
+S'boulgour'
+p1866
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p1867
+aS'tomates fra\xc3\xaeches'
+p1868
+aS'piment'
+p1869
+aS'paprika'
+p1870
+aS'yes'
+p1871
+tp1872
+a((lp1873
+S'haricots verts'
+p1874
+aS'amandes'
+p1875
+aS'mozzarella'
+p1876
+aS'sauce tomate'
+p1877
+aS'pesto'
+p1878
+aS'yes'
+p1879
+tp1880
+a((lp1881
+S'patates'
+p1882
+aS'oeuf'
+p1883
+aS'tomates fra\xc3\xaeches'
+p1884
+aS'paprika'
+p1885
+aS'\xc3\xa9chalottes'
+p1886
+aS'yes'
+p1887
+tp1888
+a((lp1889
+S'sarrasin'
+p1890
+aS'tomates fra\xc3\xaeches'
+p1891
+aS'roquette'
+p1892
+aS'ciboulette'
+p1893
+aS'citron'
+p1894
+aS'yes'
+p1895
+tp1896
+a((lp1897
+S'quinoa'
+p1898
+aS'beurre de cacahu\xc3\xa8te'
+p1899
+aS'mozzarella'
+p1900
+aS'persil'
+p1901
+aS'sauce soja'
+p1902
+aS'no'
+p1903
+tp1904
+a((lp1905
+S'haricots verts'
+p1906
+aS'oeuf'
+p1907
+aS'comt\xc3\xa9'
+p1908
+aS'menthe'
+p1909
+aS'paprika'
+p1910
+aS'yes'
+p1911
+tp1912
+a((lp1913
+S'haricots blancs/rouges'
+p1914
+aS'oeuf'
+p1915
+aS'pignons de pin'
+p1916
+aS'ciboulette'
+p1917
+aS'citron'
+p1918
+aS'no'
+p1919
+tp1920
+a((lp1921
+S'lasagnes'
+p1922
+aS'noisettes'
+p1923
+aS'tomates fra\xc3\xaeches'
+p1924
+aS'origan'
+p1925
+aS'coriandre'
+p1926
+aS'no'
+p1927
+tp1928
+a((lp1929
+S'petits-pois'
+p1930
+aS'oeuf'
+p1931
+aS'sauce tomate'
+p1932
+aS'parmesan'
+p1933
+aS'menthe'
+p1934
+aS'almost'
+p1935
+tp1936
+a((lp1937
+S'petits-pois'
+p1938
+aS'beurre de cacahu\xc3\xa8te'
+p1939
+aS'piment'
+p1940
+aS'roquette'
+p1941
+aS'ail'
+p1942
+aS'no'
+p1943
+tp1944
+a((lp1945
+S'pitta'
+p1946
+aS'comt\xc3\xa9'
+p1947
+aS'tofu grill\xc3\xa9'
+p1948
+aS'coriandre'
+p1949
+aS'ail'
+p1950
+aS'no'
+p1951
+tp1952
+a((lp1953
+S'patates douces'
+p1954
+aS'comt\xc3\xa9'
+p1955
+aS'c\xc5\x93ur de palmiers'
+p1956
+aS'sauce soja'
+p1957
+aS'citron'
+p1958
+aS'no'
+p1959
+tp1960
+a((lp1961
+S'galettes'
+p1962
+aS'seitan grill\xc3\xa9'
+p1963
+aS'olives'
+p1964
+aS'pignons de pin'
+p1965
+aS'origan'
+p1966
+aS'no'
+p1967
+tp1968
+a((lp1969
+S'\xc3\xa9pis de ma\xc3\xafs'
+p1970
+aS'seitan grill\xc3\xa9'
+p1971
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p1972
+aS'pesto'
+p1973
+aS'menthe'
+p1974
+aS'yes'
+p1975
+tp1976
+a((lp1977
+S'patates douces'
+p1978
+aS'poivron'
+p1979
+aS'moutarde'
+p1980
+aS'sauce soja'
+p1981
+aS'curcuma'
+p1982
+aS'no'
+p1983
+tp1984
+a((lp1985
+S'risotto'
+p1986
+aS'tomates fra\xc3\xaeches'
+p1987
+aS'parmesan'
+p1988
+aS'menthe'
+p1989
+aS'curry'
+p1990
+aS'yes'
+p1991
+tp1992
+a((lp1993
+S'pain'
+p1994
+aS'courgette'
+p1995
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p1996
+aS'piment'
+p1997
+aS'persil'
+p1998
+aS'no'
+p1999
+tp2000
+a((lp2001
+S'lasagnes'
+p2002
+aS'poireau'
+p2003
+aS'roquette'
+p2004
+aS'ciboulette'
+p2005
+aS'ail'
+p2006
+aS'no'
+p2007
+tp2008
+a((lp2009
+S'petits-pois'
+p2010
+aS'noisettes'
+p2011
+aS'pousses de lentilles'
+p2012
+aS'ail'
+p2013
+aS'origan'
+p2014
+aS'no'
+p2015
+tp2016
+a((lp2017
+S'riz'
+p2018
+aS'noisettes'
+p2019
+aS'lait de coco'
+p2020
+aS'c\xc3\xa2pres'
+p2021
+aS'persil'
+p2022
+aS'no'
+p2023
+tp2024
+a((lp2025
+S'haricots blancs/rouges'
+p2026
+aS'brie'
+p2027
+aS'origan'
+p2028
+aS'ciboulette'
+p2029
+aS'sauce soja'
+p2030
+aS'no'
+p2031
+tp2032
+a((lp2033
+S'millet'
+p2034
+aS'comt\xc3\xa9'
+p2035
+aS'olives'
+p2036
+aS'origan'
+p2037
+aS'poivre'
+p2038
+aS'yes'
+p2039
+tp2040
+a((lp2041
+S'quinoa'
+p2042
+aS'aubergine'
+p2043
+aS'c\xc3\xa2pres'
+p2044
+aS'\xc3\xa9chalottes'
+p2045
+aS'poivre'
+p2046
+aS'almost'
+p2047
+tp2048
+a((lp2049
+S'risotto'
+p2050
+aS'comt\xc3\xa9'
+p2051
+aS'basilic'
+p2052
+aS'\xc3\xa9chalottes'
+p2053
+aS'sauce soja'
+p2054
+aS'almost'
+p2055
+tp2056
+a((lp2057
+S'quinoa'
+p2058
+aS'roquefort'
+p2059
+aS'c\xc5\x93ur de palmiers'
+p2060
+aS'sauce tomate'
+p2061
+aS'poivre'
+p2062
+aS'yes'
+p2063
+tp2064
+a((lp2065
+S'polenta'
+p2066
+aS'lait de coco'
+p2067
+aS'pousses de lentilles'
+p2068
+aS'sauce tomate'
+p2069
+aS'origan'
+p2070
+aS'no'
+p2071
+tp2072
+a((lp2073
+S'pois-chiches'
+p2074
+aS'amandes'
+p2075
+aS'poivron'
+p2076
+aS'citron'
+p2077
+aS'persil'
+p2078
+aS'no'
+p2079
+tp2080
+a((lp2081
+S'spaghetti'
+p2082
+aS'seitan grill\xc3\xa9'
+p2083
+aS'parmesan'
+p2084
+aS'menthe'
+p2085
+aS'curry'
+p2086
+aS'no'
+p2087
+tp2088
+a((lp2089
+S'quinoa'
+p2090
+aS'mozzarella'
+p2091
+aS'tomates fra\xc3\xaeches'
+p2092
+aS'pesto'
+p2093
+aS's\xc3\xa9same'
+p2094
+aS'yes'
+p2095
+tp2096
+a((lp2097
+S'lentilles'
+p2098
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p2099
+aS'tomates fra\xc3\xaeches'
+p2100
+aS'paprika'
+p2101
+aS'origan'
+p2102
+aS'no'
+p2103
+tp2104
+a((lp2105
+S'quinoa'
+p2106
+aS'tomates s\xc3\xa9ch\xc3\xa9es'
+p2107
+aS'lait de coco'
+p2108
+aS'parmesan'
+p2109
+aS'pesto'
+p2110
+aS'no'
+p2111
+tp2112
+a((lp2113
+S'quinoa'
+p2114
+aS'noix'
+p2115
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p2116
+aS'pesto'
+p2117
+aS'sauce soja'
+p2118
+aS'yes'
+p2119
+tp2120
+a((lp2121
+S'haricots verts'
+p2122
+aS'oeuf'
+p2123
+aS'roquette'
+p2124
+aS'pignons de pin'
+p2125
+aS'paprika'
+p2126
+aS'almost'
+p2127
+tp2128
+a((lp2129
+S'quinoa'
+p2130
+aS'aubergine'
+p2131
+aS'pesto'
+p2132
+aS'parmesan'
+p2133
+aS'persil'
+p2134
+aS'yes'
+p2135
+tp2136
+a((lp2137
+S'quinoa'
+p2138
+aS'comt\xc3\xa9'
+p2139
+aS'pesto'
+p2140
+aS'roquette'
+p2141
+aS'cumin'
+p2142
+aS'no'
+p2143
+tp2144
+a((lp2145
+S'quinoa'
+p2146
+aS'brie'
+p2147
+aS'tomates fra\xc3\xaeches'
+p2148
+aS'pesto'
+p2149
+aS'ciboulette'
+p2150
+aS'yes'
+p2151
+tp2152
+a((lp2153
+S'quinoa'
+p2154
+aS'tomates fra\xc3\xaeches'
+p2155
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p2156
+aS'pesto'
+p2157
+aS'origan'
+p2158
+aS'yes'
+p2159
+tp2160
+a((lp2161
+S'quinoa'
+p2162
+aS'c\xc5\x93urs d\xe2\x80\x99artichaut'
+p2163
+aS'tomates fra\xc3\xaeches'
+p2164
+aS'pesto'
+p2165
+aS'piment'
+p2166
+aS'yes'
+p2167
+tp2168
+a((lp2169
+S'quinoa'
+p2170
+aS'aubergine'
+p2171
+aS'tomates fra\xc3\xaeches'
+p2172
+aS'paprika'
+p2173
+aS'origan'
+p2174
+aS'almost'
+p2175
+tp2176
+a((lp2177
+S'quinoa'
+p2178
+aS'tomates fra\xc3\xaeches'
+p2179
+aS'pignons de pin'
+p2180
+aS'pousses de lentilles'
+p2181
+aS'pesto'
+p2182
+aS'yes'
+p2183
+tp2184
+a((lp2185
+S'quinoa'
+p2186
+aS'seitan grill\xc3\xa9'
+p2187
+aS'noisettes'
+p2188
+aS'pesto'
+p2189
+aS'persil'
+p2190
+aS'yes'
+p2191
+tp2192
+a.

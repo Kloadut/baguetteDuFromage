@@ -1,0 +1,55 @@
+body {
+  background: #7FC7AF;
+  font-family: 'Lato', sans-serif;
+}
+
+.wrapper {
+  max-width: 950px;
+  margin: 0 auto;
+}
+
+.column1 {
+  float: left;
+  width: 40%;
+}
+
+.column2 {
+  float: left;
+  width: 60%;
+}
+
+h1 {
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 4em;
+  font-weight: normal;
+  margin-top: 0.2em;
+}
+
+img {
+  border-radius: 10px;
+  border: 10px solid #FF3D7F;
+}
+
+.ingredients {
+  font-size: 2em;
+}
+
+.ingredients i {
+  color: #FF3D7F;
+}
+
+.intro {
+  font-size: 1.2em;
+  font-style: italic;
+  margin-top: 1em;
+}
+
+.outro {
+  text-align: center;
+}
+
+.outro a {
+  color: #FF3D7F;
+  font-style: italic;
+  font-size: 2em;
+}
