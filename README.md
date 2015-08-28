@@ -12,7 +12,7 @@ Either:
 
 ## How does it work ?
 
-BaguetteDuFromage is a learning programme that records the choices validated (or not) when running `baguettedufromage.py`. This way, it calculates a score based on its recorded matching of ingredients.
+BaguetteDuFromage is a learning bot that records the choices you validate (or not) when you run `baguettedufromage.py`. This way, it calculates a score based on its recorded matching of ingredients.
 
 ![screenshot2](https://raw.githubusercontent.com/Kloadut/baguetteDuFromage/master/screenshot2.png)
 
