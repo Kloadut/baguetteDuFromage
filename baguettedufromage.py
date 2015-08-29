@@ -12,7 +12,7 @@ WRONG = "Mauvaise réponse, choisissez 'yes', 'almost' ou 'no' : "
 NUMBER_OF_INGREDIENTS = 5
 MIN_WEIGHT = 16
 MAX_WEIGHT = 20
-SCORE_REQUIRED = 30
+SCORE_REQUIRED = 40
 
 NO_MINUS_SCORE = 1
 ALMOST_SCORE = 1
