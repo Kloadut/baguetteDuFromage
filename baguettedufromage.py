@@ -3,6 +3,7 @@
 
 import pickle
 import random
+import uuid
 
 INTRO = "Votre plat est :"
 QUERY = "Cela vous convient-il ? (yes/almost/no) : "
@@ -90,7 +91,9 @@ def main():
     except KeyboardInterrupt:
         return
 
-    store_match((ingredients, answer))
+    uid = str(uuid.uuid4()).replace('-', '')[0:8]
+
+    store_match((ingredients, answer, score, uid))
     main()
 
 

@@ -1,14 +1,15 @@
 <html>
   <head>
     <title>{{name}} vous propose...</title>
-    <link rel="stylesheet" href="assets/style.css" type="text/css"></link>
+    <link rel="stylesheet" href="/assets/style.css" type="text/css"></link>
     <link href='https://fonts.googleapis.com/css?family=Reenie+Beanie|Lato:300' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="icon" href="/assets/favicon.ico?v=1.1"> 
   </head>
   <body>
     <div class="wrapper">
       <div class="column1">
-        <img src="assets/{{image}}" />
+        <img src="/assets/{{image}}" />
       </div>
       <div class="column2">
         <div class="intro">Pas d’idée de plat à cuisiner ?</div>
@@ -20,18 +21,32 @@
             %end
           </ul>
         </div>
+      </div>
+      <div class="footer">
+        <div class="buttons">
+            %if answer=='yes':
+              <a class="miam disabled" href="javascript: void(0)" disabled><i class="fa fa-smile-o"></i> Miam !</a>
+            %elif answer=='almost':
+              <a class="bof disabled" href="javascript: void(0)" disabled><i class="fa fa-meh-o"></i> Bof</a>
+            %elif answer=='no':
+              <a class="beurk disabled" href="javascript: void(0)" disabled><i class="fa fa-frown-o"></i> Beurk !</a>
+            %else:
+              <div class="button-container">
+                <a class="miam" href="?answer=yes"><i class="fa fa-smile-o"></i> Miam !</a>
+              </div>
+              <div class="button-container">
+                <a class="bof" href="?answer=almost"><i class="fa fa-meh-o"></i> Bof</a>
+              </div>
+              <div class="button-container">
+                <a class="beurk" href="?answer=no"><i class="fa fa-frown-o"></i> Beurk !</a>
+              </div>
+            %end 
+        </div>
         <div class="outro">
-          <a href="/">Une autre !</a>
+          <a href="/"><i class="fa fa-refresh"></i> Une autre ?</a>
         </div>
       </div>
     </div>
+    <!-- score: {{score}} -->
   </body>
 </html>
-
-
-
-%if True == 'World':
-  <!--yolo-->
-%else:
-  <!--yolo-->
-%end
