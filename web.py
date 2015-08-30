@@ -33,7 +33,7 @@ def store_meal(ingredients, score, uid, answer=None):
 
     history.append((ingredients, answer, score, uid))
     try:
-        simplejson.dump(history, open('history.json', 'wb'))
+        simplejson.dump(history, open('history.json', 'wb'), indent=2)
     except: pass
 
 

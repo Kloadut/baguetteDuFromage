@@ -69,7 +69,7 @@ def store_match(match_tuple):
         history = []
 
     history.append(match_tuple)
-    simplejson.dump(history, open('history.json', 'wb'))
+    simplejson.dump(history, open('history.json', 'wb'), indent=2)
 
 
 def main():
