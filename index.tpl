@@ -1,9 +1,9 @@
 <html>
   <head>
     <title>{{name}} vous propose...</title>
-    <link rel="stylesheet" href="/assets/style.css" type="text/css"></link>
-    <link href='https://fonts.googleapis.com/css?family=Reenie+Beanie|Lato:300' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/assets/fonts.css" type="text/css">
+    <link rel="stylesheet" href="/assets/style.css" type="text/css">
+    <link rel="stylesheet" href="/assets/font-awesome/css/font-awesome.min.css">
     <link rel="icon" href="/assets/favicon.ico?v=1.1"> 
   </head>
   <body>
