@@ -47,6 +47,24 @@
         </div>
       </div>
     </div>
+    <a class="help-button" href="#popup1"><i class="fa fa-question-circle"></i></a>
+    
+    <div id="popup1" class="overlay">
+      <div class="popup">
+        <h2>Comment ?</h2>
+        <a class="close" href="#">&times;</a>
+        <div class="content">
+          <p>Le <a href="https://github.com/Kloadut/baguetteDuFromage/" target=_blank>robot</a> derrière ce site vient choisir aléatoirement 6 ingrédients parmis une <a href="https://github.com/Kloadut/baguetteDuFromage/blob/master/ingredients.json" target=_blank>liste</a> pour composer un plat et calcule son score, d’après <a href="https://github.com/Kloadut/baguetteDuFromage/blob/master/history.json" target=_blank>l’historique</a> des goûts et appréciations des plats précédents par les visiteurs.</p>
+          <p>Patou, Michel et Gérard apparaîssent alors en fonction du score attribué par le robot au plat.</p>
+          <ul>
+            <li>Si le robot n’est pas sûr du plat, Patou se montre.</li>
+            <li>Si le robot trouve le plat correct, Michel apparaît.</li>
+            <li>Si le robot est satisfait de sa trouvaille, c'est sexy Gérard qui montre le bout de son... nez.</li>
+          </ul>
+          <p><em>Pour information, le score de ce plat est <b>{{score}}</b></em></p>
+        </div>
+      </div>
+    </div>
     <!-- score: {{score}} -->
   </body>
 </html>
