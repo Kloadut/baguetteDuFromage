@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 
-import pickle
+import simplejson
 import random
 import uuid
 
@@ -19,7 +19,7 @@ ALMOST_SCORE = 1
 YES_SCORE = 5
 
 def choose_ingredients():
-    ingredients = pickle.load(open('ingredients.pkl'))
+    ingredients = simplejson.load(open('ingredients.json'))
     weight = 0
     
     while weight <= MIN_WEIGHT or weight >= MAX_WEIGHT:
@@ -37,7 +37,7 @@ def calculate_score(ingredients):
     score = 0
 
     try:
-        history = pickle.load(open('history.pkl'))
+        history = simplejson.load(open('history.json'))
     except IOError:
         return score
 
@@ -64,12 +64,12 @@ def calculate_score(ingredients):
 
 def store_match(match_tuple):
     try:
-        history = pickle.load(open('history.pkl'))
+        history = simplejson.load(open('history.json'))
     except IOError:
         history = []
 
     history.append(match_tuple)
-    pickle.dump(history, open('history.pkl', 'wb'))
+    simplejson.dump(history, open('history.json', 'wb'))
 
 
 def main():

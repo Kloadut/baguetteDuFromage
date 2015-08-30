@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 
-import pickle
+import simplejson
 import uuid
 import baguettedufromage
 import bottle
@@ -27,13 +27,13 @@ def display_meal( \
 
 def store_meal(ingredients, score, uid, answer=None):
     try:
-        history = pickle.load(open('history.pkl'))
+        history = simplejson.load(open('history.json'))
     except IOError:
         history = []
 
     history.append((ingredients, answer, score, uid))
     try:
-        pickle.dump(history, open('history.pkl', 'wb'))
+        simplejson.dump(history, open('history.json', 'wb'))
     except: pass
 
 
@@ -62,7 +62,7 @@ def get_meal(uid):
         bottle.redirect('/meal/%s' % uid)
 
     try:
-        history = pickle.load(open('history.pkl'))
+        history = simplejson.load(open('history.json'))
     except IOError:
         history = []
 
