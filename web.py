@@ -12,10 +12,10 @@ def display_meal( \
         score_required=baguettedufromage.SCORE_REQUIRED, \
         score=1, ingredients=None, uid=None, answer=None):
 
-    if score > score_required * 1.3:
+    if score > score_required * 2:
         name = 'Gérard'
         image = '03.jpg'
-    elif score > score_required * 1.1:
+    elif score > score_required * 1.3:
         name = 'Michel'
         image = '02.jpg'
     else:

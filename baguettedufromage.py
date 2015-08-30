@@ -9,14 +9,14 @@ INTRO = "Votre plat est :"
 QUERY = "Cela vous convient-il ? (yes/almost/no) : "
 WRONG = "Mauvaise réponse, choisissez 'yes', 'almost' ou 'no' : "
 
-NUMBER_OF_INGREDIENTS = 5
-MIN_WEIGHT = 16
-MAX_WEIGHT = 20
-SCORE_REQUIRED = 40
+NUMBER_OF_INGREDIENTS = 6
+MIN_WEIGHT = 18
+MAX_WEIGHT = 22
+SCORE_REQUIRED = 35
 
-NO_MINUS_SCORE = 1
+NO_MINUS_SCORE = 6
 ALMOST_SCORE = 1
-YES_SCORE = 3
+YES_SCORE = 5
 
 def choose_ingredients():
     ingredients = pickle.load(open('ingredients.pkl'))
