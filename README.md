@@ -6,7 +6,11 @@ Patou, Michel and Gérard enlight your meal with their proposals!
 
 ## Usage
 
-Either:
+```
+pip install -r requirements.txt
+```
+
+Then either:
 * Run `baguettedufromage.py` as a python2 script
 * Or install python-bottle, launch `web.py` and go to http://localhost:8767/
 
